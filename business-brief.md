@@ -1,35 +1,45 @@
 # Business Brief
 
-> Revised by the EmpowHER AI Team. Original draft named the creator "FuturIQ" with a
-> generic audience. Aaron flagged this as Decision #1 and the team aligned the brief to
-> EmpowHER's real brand, voice, and audience. If FuturIQ is a separate sub-brand you are
-> launching, swap the Creator and Audience blocks back — everything else still holds.
+> Revised by the EmpowHER AI Team, then realigned with Urshala's direction: the hero
+> workshop is **My First AI Team** (its real name), and the positioning broadens from
+> business-only to **"Run Your Life Like a CEO"** — an operations team that runs her
+> personal *and* business life. Grounded in EmpowHER's existing "AI Chief of Staff" /
+> "you don't need better time management, you need a team" language.
 
 Creator:
 EmpowHER (Urshala Bowles)
 
 Audience:
-Ambitious Black professional women, women entrepreneurs, coaches, consultants, and
-creators who know AI matters but are overwhelmed by tools and do not know which business
-system to build first. She is sharp, time-starved, and tired of "AI will change your
-life" hype that never shows her the actual build. Internally we call her Ronnie.
+Ambitious Black professional women — coaches, consultants, creators, entrepreneurs, and
+corporate women with a full life — who know AI matters but are overwhelmed by tools and
+don't know what to build first. She is the operating system for everything: the business
+strategy *and* the household, the follow-up emails *and* the mental load, the client work
+*and* the caregiving. She is sharp, time-starved, and tired of "AI will change your life"
+hype that never shows her the actual build. Internally we call her Ronnie.
 
 Core promise:
-Help her build AI-powered business systems that create leverage, leads, and revenue —
-so she takes her time back. Freedom is a strategy, not a fantasy.
+Help her build an AI operations team — an AI Chief of Staff and the specialists under it —
+that runs her personal and business life, so she stops being the bottleneck and runs like
+the CEO she was meant to be. You don't need better time management. You need a team.
+Freedom is a strategy, not a fantasy.
+
+Positioning line:
+The right operations team helps you run your personal and business life like the CEO you
+were meant to be.
 
 Video goal:
 Create a sub-15-minute YouTube video that feels practical, advanced, and immediately
 useful. She should finish it, share it, and feel seen by it.
 
 Video concept:
-Build a Claude Code agent team that turns one business idea into positioning, an offer,
-YouTube angles, a lead magnet, and a follow-up sequence — on screen, in real time.
+Build an AI operations team in Claude Code — live — that takes the 80% draining her (in
+business *and* life) off her plate. Start with the Chief of Staff, then add specialists.
 
-Offer path:
-The video should naturally lead to a downloadable Revenue Agent template, the monthly
-$27 live build workshop ("Come build with me"), and a premium AI systems offer for
-businesses and ERGs.
+Offer path (grounded in EmpowHER's real value ladder):
+1. Free — the **Chief of Staff Starter** (lead magnet: her first team member, runs in 20 min)
+2. $27/month — **My First AI Team** (75-minute live build; she leaves with one working agent deployed)
+3. $2,497 — **AI Dream Team Intensive** (one Saturday; AI Chief of Staff + 9-agent personal/business team)
+4. $8,500–$15,000 — ERG / corporate / L&D tier
 
 Voice:
 Bold, affirming, direct, strategic, high-energy, premium, practical. No fluff, no
@@ -38,7 +48,9 @@ corporate speak. Fifth-grade clarity, college-level respect.
 Constraints:
 - Do not make this a generic AI tools tutorial.
 - Do not make this a basic prompt engineering lesson.
-- Show the connection between AI workflow and revenue.
-- Explain that the money is not in tools. The money is in systems.
-- Make the system beginner-friendly without making it basic.
-- Never condescend. Ronnie has a degree and a career. She is new to LLMs, not to work.
+- Show the connection between the AI workflow and a real outcome — revenue *and* time/life reclaimed.
+- The money is not in tools. The leverage is in the team/system.
+- Make it beginner-friendly without making it basic.
+- Speak to her whole life, not just her business — don't fence out the woman who wants AI
+  for her personal load. But don't lose the premium, CEO-level frame either.
+- Never condescend. Ronnie has a degree and a career. She's new to LLMs, not to work.

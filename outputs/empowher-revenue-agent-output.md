@@ -1,170 +1,185 @@
-# Revenue Agent Output — EmpowHER
+# Revenue Agent Output — EmpowHER (Realigned)
 
-> **This is a real run of the Revenue Agent Template, with EmpowHER as the business.**
-> EmpowHER built the template, then ran itself through it. This file is what the
-> `/revenue-agent` command produces. The distributable template in `revenue-agent-template/`
-> stays clean — this run lives in `outputs/` as a demo and proof asset.
+> **Realigned run.** Two corrections from Urshala: (1) the hero workshop is **My First AI
+> Team** — its real name, not the "Come Build With Me" tagline; (2) the positioning broadens
+> from business-only to **"Run Your Life Like a CEO"** — an operations team that runs her
+> personal *and* business life. Grounded in EmpowHER's existing language: *"You don't need
+> better time management. You need a team,"* the **AI Chief of Staff**, and the
+> **AI Dream Team Intensive**. The distributable template stays clean; this run lives in
+> `outputs/` as the canonical EmpowHER offering + proof asset.
 
 **Input business:** EmpowHER (Urshala Bowles) — teaches ambitious Black professional women
-to build AI agent teams that run their business so they get their time back. Hero offer:
-the $27/month "Come Build With Me" live workshop.
+to build an AI operations team that runs their personal and business life. Hero offer:
+**My First AI Team**, the $27/month, 75-minute live build.
 
 ---
 
 ## 1. Positioning
 
-I help ambitious Black women coaches, consultants, and creators stop being the bottleneck
-in their own business and finally run like a CEO — by building a team of AI agents that
-handle the strategy, copy, and follow-up they've been doing alone.
+The right operations team helps you run your **personal and business life** like the CEO
+you were meant to be. I help ambitious Black women stop being the operating system for
+everything — the strategy *and* the household, the follow-up *and* the mental load — by
+building an AI Chief of Staff and the team underneath it, live, so the 80% that drains them
+runs without them.
+
+> One line for thumbnails and pages: **"You don't need better time management. You need a team."**
 
 ---
 
-## 2. Core Offer — "Come Build With Me" ($27/month)
+## 2. Core Offer — My First AI Team ($27/month)
 
 - **Who it's for:** Ronnie — a Black professional woman, 35–55, running a coaching,
-  consulting, or creator business full-time or alongside a corporate career. Not a beginner
-  to ambition. A beginner to leverage. She watches every AI reel, downloads every tool, and
-  has nothing connected.
-- **Painful problem:** she's drowning in AI content with nothing built. She's still writing
-  her own follow-up emails at 11pm. She's been in "figure it out" mode for six months and
-  the gap between her and AI-fluent competitors is widening in real time.
-- **Measurable outcome:** she leaves the live session with **one working AI agent deployed
-  — not described.** One agent running a real piece of her business before the call ends.
+  consulting, creator, or corporate life *and* a household. Not a beginner to ambition. A
+  beginner to leverage. She watches every AI reel, downloads every tool, and has nothing
+  connected — at work or at home.
+- **Painful problem:** she's the only system her life has. Writing follow-up emails at
+  11pm, carrying the calendar, the meal plan, the caregiving, the client work — all of it,
+  alone. She's been in "figure it out" mode for six months and the gap between her and
+  AI-fluent peers is widening in real time.
+- **Measurable outcome:** she leaves the 75-minute live session with **one working agent
+  deployed — not described.** Her first team member, running a real piece of her business
+  *or* her life before the call ends.
 - **Unique mechanism:** structured co-creation, not content consumption. Urshala builds
   *alongside* her in real time, narrating every decision and troubleshooting the exact
-  sticking points that stop most women cold. The format collapses the distance between
-  knowing and doing in 90 minutes.
-- **Why now:** the window to build AI fluency as a *competitive advantage* is closing. In
-  12 months it's table stakes, not a differentiator. Build now, price higher in 2027.
-- **Price band:** $27/month — low enough to remove every excuse, high enough to signal it's
-  not a freebie. At $27 the objection isn't money; it's belief, and the live build answers
-  it on the spot.
+  sticking points that stop most women cold. 75 minutes, live, every month.
+- **Why now:** the window to build AI fluency as a *competitive and personal* advantage is
+  closing. In 12 months it's table stakes. Build now, and reclaim both your business hours
+  and your Sundays.
+- **Price band:** $27/month — low enough to remove every excuse, high enough that it's not
+  a freebie. At $27 the objection isn't money; it's belief, and the live build answers it
+  on the spot. It's the on-ramp to the full ladder, not the ceiling.
 
 ---
 
 ## 3. YouTube Angles (lead with the strongest)
 
-**Angle 1 — Fear / Relief**
-- **Title:** "You Don't Have Time to Keep Running Your Business Like This"
-- **Speaks to:** the exhaustion of being the only system in her business
-- **Hook:** "If you're still the one writing every email, doing every follow-up, and
-  building every strategy by yourself — that's not dedication. That's a ceiling. And today
-  that ceiling comes down."
+**Angle 1 — Identity / "Run Your Life Like a CEO" ⭐ recommended lead**
+- **Title:** "Run Your Whole Life Like a CEO (Build the Team That Does It For You)"
+- **Speaks to:** the gap between how she operates (does everything herself, work *and* home)
+  and who she is (a CEO who should have a team)
+- **Hook:** "A CEO doesn't run the whole company alone — and you were never supposed to run
+  your whole life alone either. Today I'm building the operations team that does it for you:
+  your business *and* your home."
 
-**Angle 2 — Identity / CEO**
-- **Title:** "CEOs Don't Do It All. They Build the Team That Does."
-- **Speaks to:** the gap between how she works (solo grind) and who she is (a CEO)
-- **Hook:** "You did not build a business this advanced just to stay the bottleneck in it.
-  You're a CEO. It's time your business started running like one."
+**Angle 2 — Fear / Relief (the mental load)**
+- **Title:** "You're Not Disorganized. You're Doing the Job of an Entire Team."
+- **Speaks to:** the exhaustion of being the only system — and the relief of handing the
+  80% off
+- **Hook:** "If you're holding the calendar, the follow-ups, the meal plan, the client
+  work, and the mental load all in your own head — that's not a personality flaw. That's a
+  staffing problem. And today we fix it."
 
-**Angle 3 — Proof / "I Built This for You" ⭐ recommended lead**
-- **Title:** "I Built an AI Agent for My Business Live — Here's How You Copy It"
+**Angle 3 — Proof / "I Built This for You"**
+- **Title:** "I Built My AI Chief of Staff Live — Here's How You Copy It"
 - **Speaks to:** the fear that AI is "a white tech bro tool" she can't access
-- **Hook:** "I'm going to show you exactly what I built during a live $27 workshop — not
-  described, not explained — actually running inside a real business before the call ended.
-  And you can copy the whole thing."
+- **Hook:** "I'm going to build my AI Chief of Staff in real time — the one that runs my
+  business *and* my house — actually running before this video ends. And you can copy the
+  whole thing."
 
 ---
 
 ## 4. Lead Magnet
 
-**Name:** The CEO Drop-In Kit — Your First AI Agent, Running in 20 Minutes
+**Name:** The Chief of Staff Starter — Your First Team Member, Running in 20 Minutes
 
-**Promise:** a working client follow-up agent you copy, paste, and run inside your own
-business today — no coding, no tech background, no wondering where to start.
+**Promise:** a working AI Chief of Staff you copy, paste, and run today — that takes a
+brain-dump of everything on your plate (business *and* personal) and hands you back a sorted,
+prioritized plan. No coding, no tech background, no wondering where to start.
 
-**Format:** a done-for-you agent starter kit (not a PDF, not a course). A structured prompt
-system built around a task she's already doing manually — client follow-up. She opens it,
-fills in three blanks about her business, and runs it immediately.
+**Format:** a done-for-you starter agent (not a PDF, not a course). A structured prompt
+system built around the one thing draining every Ronnie — the mental load. She opens it,
+fills in three blanks about her life and business, and runs it immediately.
 
 **3-section outline:**
-1. **Set your agent's identity (5 min)** — three fields: business name, client type,
-   transformation delivered. Plain-English explanation of what the agent does with them.
-2. **Run the agent (10 min)** — paste the master prompt, pick a scenario (quiet client, new
-   inquiry, discovery-call confirm), hit run, watch her business voice come back at her.
-3. **Read the output right (5 min)** — the three questions she must ask before sending:
-   does this sound like me, does it match where my client is, does it reflect my premium
-   level. Names these as judgment calls she still owns.
+1. **Set your Chief of Staff's identity (5 min)** — three fields: your roles (the hats you
+   wear at work and home), what only you can do, and what's draining you. Plain-English
+   explanation of what the agent does with them.
+2. **Run the brain-dump (10 min)** — paste the master prompt, dump everything on your plate,
+   hit run. The Chief of Staff sorts it into: delegate-to-an-agent, do-it-yourself, and
+   drop-it — and drafts the first move on the top item.
+3. **Read the output right (5 min)** — the three questions she still owns: is this *actually*
+   my top priority, does this protect my genius zone, and which agent should I build next.
+   Named as judgment calls, not the tool's job.
 
-**Why now:** she just watched a real agent run in a real business. This removes the
-"where do I start" problem entirely — it's the exact first step, already built. In 20
-minutes AI goes from "something I should learn" to "something I used today."
+**Why now:** she just watched a real Chief of Staff get built live. This removes the "where
+do I start" problem entirely — it's her first team member, already built. In 20 minutes AI
+goes from "something I should learn" to "something already taking work off my plate."
 
-**The gap it leaves on purpose:** the kit produces output; it can't tell her whether her
-niche is tight enough to read premium, or which agent to build next for her revenue goals.
-That diagnostic layer is exactly what the $27 workshop fills. *The kit is built for step
-one. The workshop is step two.*
+**The gap it leaves on purpose:** the Starter sorts the load and builds one agent; it can't
+tell her whether her priorities are right, or which *full team* to build for her specific
+life and business. That diagnostic + build layer is exactly what **My First AI Team** ($27)
+and the **AI Dream Team Intensive** ($2,497) fill. *The Starter is your first hire. The
+workshop is where you build the team.*
 
 ---
 
 ## 5. Follow-Up Sequence (5 emails)
 
-**Email 1 — "Your agent is inside. Read this before you run it."**
-Deliver the kit; tell her to run Section 2 *first*. Pre-empt the moment she second-guesses
-the tool because she second-guesses herself: "almost right" output isn't a bug — it's her
-editorial judgment activating, which means she's already operating like a CEO.
-*CTA: run Section 2 now, reply with what it produced.*
+**Email 1 — "Your Chief of Staff is inside. Read this before you run it."**
+Deliver the Starter; tell her to run the brain-dump *first*. Pre-empt the moment she
+second-guesses the tool because she second-guesses herself: "almost right" output isn't a
+bug — it's her CEO judgment activating. *CTA: run the brain-dump now, reply with what it
+sorted.*
 
 **Email 2 — "What it means when the output feels 'almost right'"**
-Reframe: the "off" feeling is a *positioning* signal, not a tech failure. The agent holds a
-mirror to where her clarity breaks down. It can't fix it, but it shows her exactly where.
-*CTA: reply — did it feel tight, or did something feel off?*
+Reframe: the "off" feeling is a *priorities* signal, not a tech failure. The Chief of Staff
+holds a mirror to where her clarity breaks down — at work and at home. *CTA: reply — did it
+feel right, or did something feel off?*
 
-**Email 3 — "The money is not in the tool. It's in the system."**
-The belief. She didn't build her business by learning everything herself — she built it
-with CEO clarity. Operator work done by her every time is the ceiling. AI agents are
-*infrastructure*, like a CRM or a VA — something she already understands. Not technical;
-CEO thinking. *CTA: see the system built end-to-end in the live workshop.*
+**Email 3 — "You don't need better time management. You need a team."**
+The belief, in EmpowHER's own words. She didn't get organized by trying harder — the load
+is too big for one person because it was never a one-person job. AI agents are *staff*, not
+software. Not technical; CEO thinking. *CTA: see the team built live in My First AI Team.*
 
-**Email 4 — "She built her intake agent on a Tuesday afternoon."**
-Concrete result: a leadership coach spending ~4 hrs/week on intake came in with no
-technical background and left the workshop with a working intake agent handling her first
-three touchpoints in her voice. What shifted wasn't just the hours — she stopped being the
-only thing between an interested prospect and a confirmed client. *CTA: one agent, deployed,
-before you leave.*
+**Email 4 — "She built her Chief of Staff on a Tuesday — and got her Sundays back."**
+Concrete result: a coach drowning in client follow-up *and* the family calendar came in with
+no technical background and left My First AI Team with a working Chief of Staff handling her
+first three touchpoints and her weekly planning. What shifted wasn't just hours — she stopped
+being the only thing standing between her life and chaos. *CTA: one agent, deployed, before
+you leave — $27.*
 
-**Email 5 — "$27. One live session. You leave with an agent running."**
-Direct close. What it is (a build session, not a course/PDF/replay), what she walks away
-with (a deployed agent she keeps forever), and the real cost of waiting: another quarter as
-the only system in her business. *CTA: grab your seat — [workshop link].*
+**Email 5 — "$27. One live session. You leave with your first team member running."**
+Direct close. What it is (a 75-minute live build, not a course/PDF/replay), what she walks
+away with (a deployed agent she keeps forever), and the real cost of waiting: another quarter
+as the only system in her life and business. Name the next rung too: when she's ready for the
+full team, the AI Dream Team Intensive builds her 9-agent Chief of Staff operation in one
+Saturday. *CTA: grab your seat in My First AI Team — [workshop link].*
 
 ---
 
 ## 6. Validator Notes — what to fix before you publish
 
 ### Strongest piece
-The positioning line and the **"deployed, not described"** outcome. That single distinction
-is the whole offer — it's concrete, provable on screen, and it separates this from every
-"AI training" in the market. Protect it; put it above the fold everywhere.
+The broadened **"Run Your Life Like a CEO"** frame plus **"deployed, not described."** Adding
+personal life doesn't dilute the premium positioning — it *widens the door* without lowering
+the ceiling, because "AI Chief of Staff" keeps it CEO-level. That's the win. Protect both
+halves: if you only show business agents on screen, you lose the woman who came for her life;
+if you only show personal, you lose the one who came for revenue. **Show one of each.**
 
 ### What would lose the buyer
-- **Angle 2's title** ("CEOs Don't Do It All") is strong but crowded — many creators use
-  CEO language. It's your most *generic-adjacent* asset. Test it against Angle 3 before you
-  commit thumbnail spend.
-- **The $27 price needs its "why" on screen and on the page.** For Ronnie's peer group,
-  $27 can read as "low-ticket course" and lower her expectations. Name *why* it's $27 (a
-  live build that requires her to show up and work) — that's part of the sell, not a footnote.
+- **Mixing personal + business can read unfocused** if the video jumps around. Fix: use the
+  Chief of Staff as the *single* hero agent — it's the one role that credibly spans both. One
+  agent, two kinds of tasks. That keeps it focused while proving the range.
+- **The $27 price still needs its "why" on screen** — for Ronnie's peer group it can read as
+  "low-ticket course." Name *why* it's $27 (a live build that needs her to show up and work).
 
 ### The 3 judgment calls (yours to make)
-1. **Is the niche too broad?** — "coaches, consultants, and creators" is three audiences.
-   Ronnie is sharpest when it's *one*. For the flagship video, consider leading with one
-   (coaches) and letting the others see themselves in the comments. Narrowing raises price
-   and clickthrough.
-2. **Does it read premium?** — yes, *if* the on-screen build is real and unhurried and a
-   named result appears early. Without a specific proof moment, "run like a CEO" risks
-   reading aspirational instead of earned. Add one real EmpowHER number or named outcome.
-3. **Which hook leads?** — recommendation: **Angle 3 (proof/"copy it")** as the flagship —
-   it removes the "not for me" objection that kills this audience fastest, and "copy"
-   signals zero barrier. Angle 1 is the strong backup. But you know your audience; your call.
+1. **Is the niche too broad?** — you intentionally widened the *use case* (life + business);
+   keep the *person* narrow (ambitious Black professional women) so it doesn't blur into
+   "everyone." The audience stays sharp; the use case opens up. That's the right trade.
+2. **Does it read premium?** — yes, *if* "Chief of Staff / operations team" carries the
+   personal-life examples. The instant it sounds like "AI to-do list app," the premium drops.
+   Keep the language executive.
+3. **Which hook leads?** — recommendation: **Angle 1 ("Run Your Whole Life Like a CEO")** as
+   flagship — it's the exact frame you asked for and it spans both worlds. Angle 2 (mental
+   load) is the strong backup for a more emotional cut. Your call.
 
 ### Fix this first
-**Add one real, specific EmpowHER result to the video and the workshop page** (a named
-woman, a concrete before/after, or a real time-saved number). Every asset here is sharp —
-the only thing standing between "premium" and "aspirational" is proof. Right now the
-promise is a claim. Make it evidence.
+**Add one real EmpowHER result that spans life *and* business** (a named woman who got hours
+back *and* a Sunday back). Everything here is sharp — the only thing between "premium" and
+"aspirational" is proof. Right now "run your life like a CEO" is a promise. Make it evidence.
 
 ---
 
-*Run produced by the Revenue Agent Stack (offer-architect → content-strategist →
-lead-magnet-builder → follow-up-architect → positioning-validator), coordinated by the main
-session. The money is not in the tool. The money is in the system.*
+*Realigned by the coordinator from the Revenue Agent Stack output, per Urshala's direction.
+Hero offer: My First AI Team. The money is not in the tool. The leverage is in the team.*
