@@ -98,7 +98,7 @@ Those are judgment calls, and they're the difference between a system that makes
 content you're proud of that nobody buys. When you run this and something feels off — the
 niche feels wide, the offer sounds generic, none of the hooks feel like *you* — that is not
 a bug. **Write those questions down.** That's exactly the gap we work through together,
-live, in the **$27 monthly "Come Build With Me" workshop**. The template gives you the
+live, in the **$27 monthly Your First AI Team Workshop**. The template gives you the
 structure. The workshop gives you the judgment.
 
 ---

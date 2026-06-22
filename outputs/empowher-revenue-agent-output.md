@@ -1,16 +1,15 @@
 # Revenue Agent Output — EmpowHER (Realigned)
 
-> **Realigned run.** Two corrections from Urshala: (1) the hero workshop is **My First AI
-> Team** — its real name, not the "Come Build With Me" tagline; (2) the positioning broadens
-> from business-only to **"Run Your Life Like a CEO"** — an operations team that runs her
-> personal *and* business life. Grounded in EmpowHER's existing language: *"You don't need
-> better time management. You need a team,"* the **AI Chief of Staff**, and the
-> **AI Dream Team Intensive**. The distributable template stays clean; this run lives in
-> `outputs/` as the canonical EmpowHER offering + proof asset.
+> **Realigned + corrected run.** Three things from Urshala: (1) the hero offer is **Your First
+> AI Team Workshop** — its real, locked name; (2) positioning broadens from business-only to
+> **"Run Your Life Like a CEO"** — an operations team that runs her personal *and* business
+> life; (3) the ladder is corrected to the **locked** one (the old $2,497 Intensive is
+> retired). Grounded in EmpowHER's existing language: *"You don't need better time management.
+> You need a team,"* and the **AI Chief of Staff**. Proof is real: **Tara**.
 
 **Input business:** EmpowHER (Urshala Bowles) — teaches ambitious Black professional women
 to build an AI operations team that runs their personal and business life. Hero offer:
-**My First AI Team**, the $27/month, 75-minute live build.
+**Your First AI Team Workshop**, the $27/month, 75-minute live build.
 
 ---
 
@@ -26,7 +25,7 @@ runs without them.
 
 ---
 
-## 2. Core Offer — My First AI Team ($27/month)
+## 2. Core Offer — Your First AI Team Workshop ($27/month)
 
 - **Who it's for:** Ronnie — a Black professional woman, 35–55, running a coaching,
   consulting, creator, or corporate life *and* a household. Not a beginner to ambition. A
@@ -107,9 +106,9 @@ goes from "something I should learn" to "something already taking work off my pl
 
 **The gap it leaves on purpose:** the Starter sorts the load and builds one agent; it can't
 tell her whether her priorities are right, or which *full team* to build for her specific
-life and business. That diagnostic + build layer is exactly what **My First AI Team** ($27)
-and the **AI Dream Team Intensive** ($2,497) fill. *The Starter is your first hire. The
-workshop is where you build the team.*
+life and business. That diagnostic + build layer is exactly what **Your First AI Team
+Workshop** ($27) fills — and the **Inner Circle** ($47/mo) and **Build & Handoff** ladder
+take it from there. *The Starter is your first hire. The workshop is where you build the team.*
 
 ---
 
@@ -129,21 +128,22 @@ feel right, or did something feel off?*
 **Email 3 — "You don't need better time management. You need a team."**
 The belief, in EmpowHER's own words. She didn't get organized by trying harder — the load
 is too big for one person because it was never a one-person job. AI agents are *staff*, not
-software. Not technical; CEO thinking. *CTA: see the team built live in My First AI Team.*
+software. Not technical; CEO thinking. *CTA: see the team built live in Your First AI Team
+Workshop.*
 
-**Email 4 — "She built her Chief of Staff on a Tuesday — and got her Sundays back."**
-Concrete result: a coach drowning in client follow-up *and* the family calendar came in with
-no technical background and left My First AI Team with a working Chief of Staff handling her
-first three touchpoints and her weekly planning. What shifted wasn't just hours — she stopped
-being the only thing standing between her life and chaos. *CTA: one agent, deployed, before
-you leave — $27.*
+**Email 4 — "Tara built a 15-agent team — and saved up to $150,000 in hires." (real proof)**
+The Tara story, straight: she took Your First AI Team Workshop, then went on to build a team
+of **15 agents** — eliminating the need to hire **3 additional people**. At ~$50,000 a role,
+that's **up to $150,000** she didn't have to spend. She started exactly where the reader is:
+one workshop, one first agent. The team came after. *CTA: build your first agent live — $27.*
 
 **Email 5 — "$27. One live session. You leave with your first team member running."**
 Direct close. What it is (a 75-minute live build, not a course/PDF/replay), what she walks
 away with (a deployed agent she keeps forever), and the real cost of waiting: another quarter
-as the only system in her life and business. Name the next rung too: when she's ready for the
-full team, the AI Dream Team Intensive builds her 9-agent Chief of Staff operation in one
-Saturday. *CTA: grab your seat in My First AI Team — [workshop link].*
+as the only system in her life and business. Name the next rungs too: when she wants the team
+to keep growing, the **Inner Circle** ($47/mo) drops a new agent every month, and **Build &
+Handoff** ($797–$3,497) builds the whole operation with her. *CTA: grab your seat in Your
+First AI Team Workshop — [workshop link].*
 
 ---
 
@@ -174,12 +174,18 @@ if you only show personal, you lose the one who came for revenue. **Show one of 
    flagship — it's the exact frame you asked for and it spans both worlds. Angle 2 (mental
    load) is the strong backup for a more emotional cut. Your call.
 
-### Fix this first
-**Add one real EmpowHER result that spans life *and* business** (a named woman who got hours
-back *and* a Sunday back). Everything here is sharp — the only thing between "premium" and
-"aspirational" is proof. Right now "run your life like a CEO" is a promise. Make it evidence.
+### Proof is solved — lead with it
+**Tara.** She took Your First AI Team Workshop, then built a **15-agent team** that eliminated
+the need for **3 hires** — **up to $150,000 saved** (~$50K/role). This is the asset the whole
+funnel was missing, and it's a *business-leverage* proof (real dollars), which anchors the
+premium. Two notes for honest use: (1) say **"up to $150,000"** and "eliminated the need to
+hire" — it's avoided cost, not cash in the bank; (2) Tara's headline is business ROI, so on
+the personal-life side, keep the promise a promise ("get your life back too") rather than
+attaching an invented personal metric to her. Put Tara on the thumbnail-adjacent proof slot,
+the sales page, and Email 4. *"Run your life like a CEO" is no longer a promise — Tara is the
+evidence.*
 
 ---
 
 *Realigned by the coordinator from the Revenue Agent Stack output, per Urshala's direction.
-Hero offer: My First AI Team. The money is not in the tool. The leverage is in the team.*
+Hero offer: Your First AI Team Workshop. The money is not in the tool. The leverage is in the team.*

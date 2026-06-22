@@ -1,10 +1,9 @@
 # Business Brief
 
-> Revised by the EmpowHER AI Team, then realigned with Urshala's direction: the hero
-> workshop is **My First AI Team** (its real name), and the positioning broadens from
-> business-only to **"Run Your Life Like a CEO"** — an operations team that runs her
-> personal *and* business life. Grounded in EmpowHER's existing "AI Chief of Staff" /
-> "you don't need better time management, you need a team" language.
+> Revised by the EmpowHER AI Team, then realigned with Urshala's direction and corrected
+> against the locked offer ladder: the hero offer is **Your First AI Team Workshop** ($27/mo,
+> 75-min live). Positioning broadens from business-only to **"Run Your Life Like a CEO"** —
+> an operations team that runs her personal *and* business life. Proof: Tara.
 
 Creator:
 EmpowHER (Urshala Bowles)
@@ -27,19 +26,26 @@ Positioning line:
 The right operations team helps you run your personal and business life like the CEO you
 were meant to be.
 
+Proof (real):
+Tara took Your First AI Team Workshop, then built a team of 15 agents — eliminating the need
+to hire 3 additional people. At ~$50,000 per role, that's up to $150,000 saved. Real woman,
+real workshop, real leverage.
+
 Video goal:
 Create a sub-15-minute YouTube video that feels practical, advanced, and immediately
 useful. She should finish it, share it, and feel seen by it.
 
 Video concept:
-Build an AI operations team in Claude Code — live — that takes the 80% draining her (in
-business *and* life) off her plate. Start with the Chief of Staff, then add specialists.
+Build an AI Chief of Staff in Claude — live — that takes the 80% draining her off her plate.
+Show it doing one business task *and* one personal task, so neither audience feels fenced out.
 
-Offer path (grounded in EmpowHER's real value ladder):
+Offer path (LOCKED ladder — Master Project Tracker):
 1. Free — the **Chief of Staff Starter** (lead magnet: her first team member, runs in 20 min)
-2. $27/month — **My First AI Team** (75-minute live build; she leaves with one working agent deployed)
-3. $2,497 — **AI Dream Team Intensive** (one Saturday; AI Chief of Staff + 9-agent personal/business team)
-4. $8,500–$15,000 — ERG / corporate / L&D tier
+2. $27/month — **Your First AI Team Workshop** (75-min live build; she leaves with one working agent deployed)
+3. $47/month — **Inner Circle** (Substack community + monthly agent drops)
+4. **Build & Handoff** — The One Thing $797 / The Setup $1,997 / The Whole Operation $3,497 / On Call retainer $297/month
+
+> Note: the old $2,497 "AI Dream Team Intensive" is RETIRED (parked until 2027). Do not use it.
 
 Voice:
 Bold, affirming, direct, strategic, high-energy, premium, practical. No fluff, no

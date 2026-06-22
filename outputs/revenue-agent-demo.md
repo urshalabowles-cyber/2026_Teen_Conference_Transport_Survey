@@ -13,9 +13,9 @@ Agent Stack** live in Claude Code — a coordinated team of agents that turns on
 idea into positioning, an offer, YouTube angles, a lead magnet, and a follow-up sequence.
 The video opens on the *finished output*, neutralizes the "this is for developers" wall
 inside the first 90 seconds, builds two outputs live, and names the other three as
-template outputs. It drives to **one** CTA: the free **Revenue Agent Template** (email
-capture), which leads to the **$27 monthly "Come Build With Me" workshop**, then a
-premium done-with-you build, then a corporate/ERG tier.
+template outputs. It drives to **one** CTA: the free **Chief of Staff Starter** (email
+capture), which leads to the **$27 monthly Your First AI Team Workshop**, then the Inner
+Circle ($47/mo), then the Build & Handoff ladder ($797–$3,497).
 
 The opportunity scored **31/35**. Demand is documented (72% of Black women-owned firms
 lack essential operations systems; Claude Code is a rising, under-supplied search space
@@ -67,14 +67,16 @@ systems using Claude Code so they walk away from one afternoon with positioning,
 a lead magnet, and a follow-up sequence already done — without learning to code or spending
 six months deciding which tool to start with.
 
-**Value ladder:**
+**Value ladder (LOCKED — Master Project Tracker):**
 1. **Free** — the YouTube video (the proof, not the pitch).
-2. **Lead magnet** — the Revenue Agent Template (email capture, instant delivery).
-3. **$27/mo** — "Come Build With Me" live workshop (the judgment layer).
-4. **$2,500–$5,000** — done-with-you Revenue Agent build for her specific business.
-5. **$8,500–$15,000** — corporate / ERG / L&D tier ("measurable skills delivery for an
-   underserved internal constituency with a documented adoption gap"). One ERG deal ≈ 315
-   workshop sales. Don't discount; corporate needs a business case, a W-9, and an SOW.
+2. **Lead magnet** — the Chief of Staff Starter (email capture, instant delivery).
+3. **$27/mo** — Your First AI Team Workshop (the live judgment layer).
+4. **$47/mo** — Inner Circle (Substack community + a new agent dropped every month).
+5. **Build & Handoff** — The One Thing $797 / The Setup $1,997 / The Whole Operation $3,497 /
+   On Call retainer $297/mo. Done-with-you builds for her specific business.
+
+   *(The old $2,497 "AI Dream Team Intensive" and the $8.5k–15k ERG tier are retired/parked —
+   not part of the current locked ladder.)*
 
 ---
 
@@ -173,7 +175,7 @@ Template = material; workshop = judgment. *CTA: Join and bring your output.*
 
 **Email 5 — "Last thing I'll say about the workshop"**
 Plain close: what it is, $27, live, recorded, cancel anytime, who it's *not* for (the
-"someday" crowd — go run the template first). *CTA: Join Come Build With Me — $27/mo.*
+"someday" crowd — go run the template first). *CTA: Join Your First AI Team Workshop — $27/mo.*
 
 ---
 
