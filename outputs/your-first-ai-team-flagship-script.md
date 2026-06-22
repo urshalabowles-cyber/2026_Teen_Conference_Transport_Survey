@@ -68,16 +68,25 @@ team.**
   *same* team member my home life. Same agent. Watch it not even blink."
 
 ### 6:30–9:30 — LIVE BUILD, Part 2: the SAME agent runs your PERSONAL life
+- **Action:** hand the same Chief of Staff your home life — and show your **real** meal-plan
+  agent, because this one is already yours and it's the proof.
 - **Brain-dump (personal slice):** "Dinner 5 nights, my mom's follow-up appointment, the
   permission slip, gym, my friend's birthday I keep forgetting, I haven't had a Sunday off in
   a month."
-- **Payoff:** it sorts the household load, flags the appointment as today's-one-thing,
-  **drafts the week's dinner plan + a grocery list**, and protects "Sunday off" by name.
+- **Payoff:** it sorts the household load, flags the appointment as today's-one-thing, then —
+  **show the real one** — your meal-plan agent builds the week's dinners AND **loads every
+  ingredient into your Kroger cart**, ready to check out.
+- **VO (the proof, said plainly):** "This part isn't a demo — this is my actual agent. It
+  plans my week of dinners and loads the groceries straight into my Kroger cart. All I do is
+  hit 'buy.' That alone saves me **five to eight hours every single week.** That's not a tip.
+  That's a team member."
 - **VO (the emotional beat):** "Look at what it did. It didn't just organize my week. It put
   my Sunday back on the calendar — because I told it that was mine. That's not a to-do app.
   That's someone in your corner. That's what a team feels like."
 
-### 9:30–10:30 — The PROOF (Tara)
+### 9:30–10:30 — The PROOF (personal → business)
+- **VO (bridge):** "You just watched the personal side pay off — my meal agent saves me 5 to
+  8 hours a week, every week. Now let me show you what happens on the business side."
 - **On screen:** clean text slide — *Tara → 15 agents → 3 hires eliminated → up to $150,000.*
 - **VO:** "This is Tara. She came into my workshop exactly where you are right now — one
   woman, doing everything, building her first agent. She didn't stop at one. She built a team

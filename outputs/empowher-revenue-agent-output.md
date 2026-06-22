@@ -174,16 +174,20 @@ if you only show personal, you lose the one who came for revenue. **Show one of 
    flagship — it's the exact frame you asked for and it spans both worlds. Angle 2 (mental
    load) is the strong backup for a more emotional cut. Your call.
 
-### Proof is solved — lead with it
-**Tara.** She took Your First AI Team Workshop, then built a **15-agent team** that eliminated
-the need for **3 hires** — **up to $150,000 saved** (~$50K/role). This is the asset the whole
-funnel was missing, and it's a *business-leverage* proof (real dollars), which anchors the
-premium. Two notes for honest use: (1) say **"up to $150,000"** and "eliminated the need to
-hire" — it's avoided cost, not cash in the bank; (2) Tara's headline is business ROI, so on
-the personal-life side, keep the promise a promise ("get your life back too") rather than
-attaching an invented personal metric to her. Put Tara on the thumbnail-adjacent proof slot,
-the sales page, and Email 4. *"Run your life like a CEO" is no longer a promise — Tara is the
-evidence.*
+### Proof is solved — on BOTH sides now
+The "Run your life like a CEO" promise now has evidence on each half:
+- **Business proof — Tara.** She took Your First AI Team Workshop, then built a **15-agent
+  team** that eliminated the need for **3 hires** — **up to $150,000 saved** (~$50K/role).
+  Real dollars; this anchors the premium. Honest use: say **"up to $150,000"** and
+  "eliminated the need to hire" — avoided cost, not cash banked.
+- **Personal proof — Urshala's own meal agent.** Her agent builds the weekly meal plan and
+  **loads the groceries into her Kroger cart** — saving **5–8 hours every week.** This is the
+  founder's own agent, so it can be *demoed live on screen* (the real cart), not just claimed.
+  It's the personal-life counterweight to Tara's business number.
+
+Together they cover both audiences without inventing anything: business ROI *and* hours of
+life reclaimed. Put Tara on the proof slot + sales page + Email 4; show the Kroger meal agent
+live in the video and reference it in the personal-pain Angle 2.
 
 ---
 

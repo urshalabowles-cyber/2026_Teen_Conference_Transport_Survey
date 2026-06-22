@@ -26,10 +26,13 @@ Positioning line:
 The right operations team helps you run your personal and business life like the CEO you
 were meant to be.
 
-Proof (real):
-Tara took Your First AI Team Workshop, then built a team of 15 agents — eliminating the need
-to hire 3 additional people. At ~$50,000 per role, that's up to $150,000 saved. Real woman,
-real workshop, real leverage.
+Proof (real, both sides):
+- Business: Tara took Your First AI Team Workshop, then built a team of 15 agents —
+  eliminating the need to hire 3 additional people. At ~$50,000 per role, that's up to
+  $150,000 saved.
+- Personal: Urshala's own meal-plan agent builds the week's dinners and loads the groceries
+  into her Kroger cart — saving 5–8 hours every week. Her own agent, so it demos live.
+Real women, real agents, real leverage — revenue saved AND life reclaimed.
 
 Video goal:
 Create a sub-15-minute YouTube video that feels practical, advanced, and immediately
